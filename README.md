@@ -12,5 +12,3 @@ Creating this to learn how Github works.
 node app.js
 ````
 >:)
-:D
-XD
